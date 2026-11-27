@@ -183,5 +183,6 @@ Todos los endpoints leen la cabecera `X-User-Role: ADMIN | SELLER` evaluada por 
 9. **Bridge + Adapter:** Pulsa **Exportar Excel/CSV**, combina cualquiera de los 3 reportes (`General`, `Stock Bajo`, `Valorizado`) con `Excel (.xlsx)` o `CSV (.csv)` y descarga el archivo real.
 
 Para la documentación técnica detallada de arquitectura y diagramas UML, consulta [PATTERNS.md](./PATTERNS.md).
-#   P r o y e c t o P a t r o n e s  
+#   P r o y e c t o P a t r o n e s 
+ 
  
