@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <linearGradient id="disp" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="280" fill="url(#bg)"/>
+  <rect x="70" y="42" width="260" height="155" rx="8" fill="#1e293b" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="78" y="50" width="244" height="136" rx="3" fill="url(#disp)"/>
+  <text x="200" y="114" text-anchor="middle" font-family="Segoe UI, Arial" font-weight="800" font-size="28" fill="#ffffff">4K UHD</text>
+  <text x="200" y="138" text-anchor="middle" font-family="Segoe UI, Arial" font-size="12" fill="#e0f2fe" letter-spacing="2">ULTRASHARP 27" IPS BLACK</text>
+  <rect x="184" y="197" width="32" height="36" fill="#94a3b8"/>
+  <rect x="135" y="230" width="130" height="10" rx="5" fill="#cbd5e1"/>
+  <rect x="18" y="18" width="96" height="22" rx="11" fill="#0284c7"/>
+  <text x="66" y="33" text-anchor="middle" font-family="Segoe UI, Arial" font-weight="700" font-size="10" fill="#fff">OFFICE CORP</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#31105f"/>
+    </linearGradient>
+    <linearGradient id="scr" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="280" fill="url(#bg)"/>
+  <circle cx="330" cy="50" r="90" fill="#7c3aed" opacity="0.18"/>
+  <circle cx="70" cy="240" r="80" fill="#06b6d4" opacity="0.14"/>
+  <rect x="75" y="45" width="250" height="150" rx="10" fill="#1e293b" stroke="#64748b" stroke-width="2"/>
+  <rect x="85" y="55" width="230" height="130" rx="5" fill="url(#scr)" opacity="0.9"/>
+  <polygon points="105,165 160,95 205,135 245,80 295,165" fill="#0f172a" opacity="0.45"/>
+  <text x="200" y="128" text-anchor="middle" font-family="Segoe UI, Arial" font-weight="700" font-size="22" fill="#ffffff" letter-spacing="3">ROG STRIX</text>
+  <text x="200" y="148" text-anchor="middle" font-family="Segoe UI, Arial" font-size="11" fill="#e2e8f0" letter-spacing="2">RTX 4070 • 240Hz</text>
+  <polygon points="50,198 350,198 370,222 30,222" fill="#334155" stroke="#475569" stroke-width="1.5"/>
+  <rect x="65" y="203" width="270" height="10" rx="2" fill="#0f172a"/>
+  <rect x="70" y="205" width="260" height="3" rx="1" fill="url(#scr)"/>
+  <rect x="165" y="216" width="70" height="4" rx="2" fill="#94a3b8"/>
+  <rect x="18" y="18" width="94" height="22" rx="11" fill="#7c3aed" opacity="0.9"/>
+  <text x="65" y="33" text-anchor="middle" font-family="Segoe UI, Arial" font-weight="700" font-size="10" fill="#fff">GAMER PRO</text>
+</svg>

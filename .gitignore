@@ -1,0 +1,33 @@
+# Dependencias y builds
+node_modules/
+dist/
+backend/dist/
+frontend/dist/
+
+# Variables de entorno, llaves de acceso y tokens (NUNCA subir a GitHub)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.jks
+*.token
+*credentials*.json
+*secret*.json
+*service-account*.json
+.npmrc
+
+# Datos locales y archivos subidos en tiempo de ejecución
+backend/data/
+backend/data/inventory.json
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Logs y archivos del sistema
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

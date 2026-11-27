@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="50%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="280" fill="url(#bg)"/>
+  <circle cx="95" cy="95" r="70" fill="#a855f7" opacity="0.22"/>
+  <circle cx="310" cy="195" r="80" fill="#06b6d4" opacity="0.2"/>
+  <rect x="52" y="54" width="296" height="172" rx="16" fill="#0f172a" opacity="0.72" stroke="url(#accent)" stroke-width="2.5"/>
+  <text x="200" y="106" text-anchor="middle" font-family="Segoe UI, Arial" font-weight="800" font-size="14" fill="#22d3ee" letter-spacing="3">COMPOSITE KIT</text>
+  <text x="200" y="142" text-anchor="middle" font-family="Segoe UI, Arial" font-weight="800" font-size="24" fill="#ffffff">COMBO GAMER</text>
+  <text x="200" y="170" text-anchor="middle" font-family="Segoe UI, Arial" font-size="12" fill="#cbd5e1">LAPTOP + MOUSE + TECLADO + HEADSET</text>
+  <rect x="130" y="186" width="140" height="24" rx="12" fill="url(#accent)"/>
+  <text x="200" y="202" text-anchor="middle" font-family="Segoe UI, Arial" font-weight="700" font-size="11" fill="#0f172a">PRECIO Y STOCK DINÁMICO</text>
+</svg>
